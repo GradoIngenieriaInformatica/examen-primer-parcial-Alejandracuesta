@@ -58,7 +58,7 @@ categoria + anio
 
 Ejecutar `explain("executionStats")` sobre la consulta de libros de categoría `"informatica"`.
 
-## Pregunta 9 (1 punto)
+## Pregunta 9 (1 punto):
 
 Realizar una consulta que devuelva ​solo el campo `titulo` de todos los libros​.
 
